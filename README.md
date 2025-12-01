@@ -3,7 +3,7 @@ AI-Powered Multi-Agent Travel Optimization System
 
 OptiOdyssey is an intelligent travel planning platform that automates itinerary creation using real-time data and AI agents. It simplifies trip planning by recommending attractions, hotels, restaurants, weather updates, and even live flights — all optimized to user preferences.
 
-<img src="https://i.imgur.com/HuXQ3Hd.png" width="800"/> *(Replace with your thumbnail later)*
+
 🚀 Features
 
 ✔ Multi-agent architecture for intelligent decision-making
@@ -137,3 +137,4 @@ MIT License — Free to use, modify, and distribute.
 
 If this repo helped you, please ⭐ star it!
 Your support motivates further development 🚀
+
