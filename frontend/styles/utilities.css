@@ -1,0 +1,18 @@
+/* Generic card */
+.card {
+  @apply bg-slate-900/70 border border-slate-800 rounded-2xl shadow-xl shadow-black/40;
+}
+
+/* Navbar link */
+.nav-link {
+  @apply text-slate-300 hover:text-white transition-colors;
+}
+
+/* Page background wrapper */
+.gradient-bg {
+  background:
+    radial-gradient(circle at top left, rgba(56, 189, 248, 0.15), transparent 55%),
+    radial-gradient(circle at top right, rgba(129, 140, 248, 0.15), transparent 55%),
+    radial-gradient(circle at bottom, rgba(16, 185, 129, 0.12), transparent 55%),
+    #020617;
+}
